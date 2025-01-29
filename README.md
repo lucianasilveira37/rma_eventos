@@ -37,8 +37,7 @@ POST /opinioes: Para enviar uma nova opinião com o nome e a mensagem do cliente
 ### 3.3. Banco de Dados
 O banco de dados utiliza PostgreSQL para armazenar as opiniões dos clientes. A tabela opinioes foi criada com as seguintes colunas:
 
-sql
-Copiar
+
 CREATE TABLE opinioes (
     id SERIAL PRIMARY KEY,         -- Identificador único para cada comentário
     nome VARCHAR(100),             -- Nome do cliente que deixou a opinião
