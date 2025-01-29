@@ -82,7 +82,9 @@ Comentários: Área para que os clientes deixem suas opiniões sobre os serviço
 ![Captura de tela 2025-01-28 210511](https://github.com/user-attachments/assets/6bcad56a-9dbc-4a51-afef-7c25bd0aa903)
 
 ### 5.2. Endpoints (Back-End)
+
 GET /opinioes: Endpoint que retorna todas as opiniões enviadas pelos clientes.
+
 // Rota para obter opiniões
 app.get('/opinioes', async (req, res) => {
     try {
