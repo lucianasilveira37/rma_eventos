@@ -1,4 +1,4 @@
-# ** Relatório do Projeto -RMA EVENTOS **
+# **Relatório do Projeto -RMA EVENTOS**
 ##1. Ideia Principal do Projeto
 O site "RMA EVENTOS" foi criada com o objetivo de divulgar e vender produtos típicos de eventos, como pipocas, algodão doce e mini donuts. O site também serve como uma plataforma de promoção para a atuação da loja em festas, aniversários e outros tipos de celebrações. O principal foco da plataforma é fornecer uma experiência agradável e prática para os clientes, permitindo que eles conheçam os produtos, visualizem imagens e vídeos, além de compartilhar suas opiniões sobre os serviços prestados.
 
